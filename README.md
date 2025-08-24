@@ -1,1 +1,1 @@
-# Balatro-U-precompiled
+used only for https://github.com/xtomasnemec/Balatro-Wii-U
